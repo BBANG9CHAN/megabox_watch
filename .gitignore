@@ -1,0 +1,10 @@
+# 웹후크 URL 등 비밀값이 들어있음
+.env
+
+# 실행 중 생성되는 파일
+seen_events.json
+watch.log
+fragment.html
+
+__pycache__/
+*.pyc
